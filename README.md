@@ -12,7 +12,9 @@ https://www.liypoi.top/
 
 > 这是引用测试
 
-!\[图片测试\]\([http://image-liypo.test.upcdn.net/Blog\_Picture/54.png](http://image-liypo.test.upcdn.net/Blog_Picture/54.png)\)
+![](http://image-liypo.test.upcdn.net/Blog_Picture/54.png)
+
+
 
 | 表头 |
 | :---: |
