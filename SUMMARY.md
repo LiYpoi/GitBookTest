@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [GitBook功能测试](README.md)
+* [第二页](di-er-ye.md)
 
